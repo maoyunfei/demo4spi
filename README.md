@@ -1,0 +1,1 @@
+[Java的SPI机制与简单示例](http://www.solinx.co/archives/142)
